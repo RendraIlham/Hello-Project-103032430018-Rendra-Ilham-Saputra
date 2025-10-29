@@ -1,3 +1,5 @@
+//halo ini komentar
+
 package main
 
 import "fmt"
